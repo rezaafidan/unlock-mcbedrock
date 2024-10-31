@@ -1,7 +1,7 @@
 unlock full game minecraft bedrock edition
 ---
 
-#h2 Instruciton
+## Instruciton
 
 1. Firstly you need installed trial version of Minecraft Bedrock from ms store
    ![image](https://github.com/user-attachments/assets/0ad3e49b-f1ec-4859-9d8c-0b702895912d) ![image](https://github.com/user-attachments/assets/013ac580-1122-4427-8651-f5eeb0e35d8c)
@@ -13,7 +13,7 @@ unlock full game minecraft bedrock edition
    or **C:\Windows\System32** if what has been selected is x86
 7. Done, open your Minecraft Bedrock Edition
 
-#h2 License
+## License
 
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for

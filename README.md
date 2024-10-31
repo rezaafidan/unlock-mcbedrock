@@ -8,8 +8,9 @@ unlock full game minecraft bedrock edition by rezaafidan
 2. Choose x86 or x64 according to your operating system
 3. Copy **.dll** file using **io bit unlocker**
 4. Paste to **C:\Windows\SysWOW64** if what has been selected is x64 operating system
-   or **C:\Windows\System32** if what has been selected is x32
-5. Done
+
+   or **C:\Windows\System32** if what has been selected is x86
+6. Done
 
 ## License
 

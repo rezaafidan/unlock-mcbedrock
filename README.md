@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/4c4b1218-55b1-4680-baa4-6ec8da3fe994)# unlock-mcbedrock
-unlock full game minecraft bedrock edition by rezaafidan
+unlock full game minecraft bedrock edition
 ---
 
 ### Instrucion

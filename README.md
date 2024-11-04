@@ -5,13 +5,17 @@ unlock full game minecraft bedrock edition
 
 1. Firstly you need installed trial version of Minecraft Bedrock from ms store
    ![image](https://github.com/user-attachments/assets/0ad3e49b-f1ec-4859-9d8c-0b702895912d)
-3. Download releases zip files and Extract
-4. Choose x86 or x64 according to your operating system
-5. Copy **.dll** file using **io bit unlocker**
-6. Paste to **C:\Windows\SysWOW64** if what has been selected is x64 operating system
+2. **io bit unlocker** is required [dowlnoad here](https://www.iobit.com/en/iobit-unlocker.php)
+3. delete **Windows.ApplicationModel.Store.dll** on **C:\Windows\SysWOW64\** using **io bit unlocker**
+4. delete **Windows.ApplicationModel.Store.dll** on **C:\Windows\System32\** using **io bit unlocker**
 
-   or **C:\Windows\System32** if what has been selected is x86
-7. Done, open your Minecraft Bedrock Edition
+  
+5. Download releases zip files and Extract
+6. Paste **.dll** file to **C:\Windows\SysWOW64\** if what has been selected are from **SysWOW64** folder
+7. Paste **.dll** file to **C:\Windows\System32\** if what has been selected are from **Systen32** folder
+
+     
+Done
 
 ## License
 

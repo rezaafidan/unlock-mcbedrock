@@ -26,4 +26,4 @@ details
 
 ## Donate
 
-[Buy me a coffee](linktr.ee/rezaafidan)
+[Buy me a coffee](https://linktr.ee/rezaafidan)

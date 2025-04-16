@@ -1,6 +1,3 @@
-unlock full game minecraft bedrock edition
----
-
 ## Instruciton
 
 1. Firstly you need installed trial version of Minecraft Bedrock from ms store
@@ -12,18 +9,4 @@ unlock full game minecraft bedrock edition
   
 5. Download releases zip files and Extract
 6. Paste **.dll** file to **C:\Windows\SysWOW64\** if what has been selected are from **SysWOW64** folder
-7. Paste **.dll** file to **C:\Windows\System32\** if what has been selected are from **Systen32** folder
-
-     
-Done
-
-## License
-
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
-
-## Donate
-
-[Buy me a coffee](https://linktr.ee/rezaafidan)
+7. Paste **.dll** file to **C:\Windows\System32\** if what has been selected are from **System32** folder
